@@ -38,3 +38,4 @@ StdAfx.h, StdAfx.cpp
     named Virtual Bank.pch and a precompiled types file named StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
+The exe file attached can be used by the user to run the program without mannual compilation.
